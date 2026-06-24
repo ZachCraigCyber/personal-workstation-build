@@ -1,5 +1,7 @@
 # personal-workstation-build
 
+## Custom Gaming PC Build – Personal Workstation
+
 ### Overview
 Designed and assembled a custom gaming and productivity PC from individual components. Planned hardware selection, completed system assembly, configured firmware settings, and deployed the operating system.
 
