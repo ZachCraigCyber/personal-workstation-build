@@ -31,3 +31,9 @@ Designed and assembled a custom gaming and productivity PC from individual compo
 - Storage: Samsung 970 Evo Plus 2 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive
 - Power Supply: Corsair RM850 850 W 80+ Gold Certified Fully Modular ATX Power Supply
 - Case: Lian Li O11 Dynamic EVO ATX Mid Tower Case
+
+### Photos
+[Internal Components]<img width="645" height="1398" alt="IMG_5100" src="https://github.com/user-attachments/assets/82ca0418-caaa-428e-be63-8a2b4e3e0b88" />
+[Finished Build]<img width="1242" height="2208" alt="IMG_5101" src="https://github.com/user-attachments/assets/eaa5fc05-5a95-4b16-855c-a249c1ac14c9" />
+
+
