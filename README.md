@@ -33,8 +33,10 @@ Designed and assembled a custom gaming and productivity PC from individual compo
 - Case: Lian Li O11 Dynamic EVO ATX Mid Tower Case
 
 ### Photos
-[Internal Components]<img width="645" height="1398" alt="IMG_5100" src="https://github.com/user-attachments/assets/82ca0418-caaa-428e-be63-8a2b4e3e0b88" />
+![Internal Components]<img width="1227" height="963" alt="IMG_5100" src="https://github.com/user-attachments/assets/ee4a3347-71b1-48fb-a627-5e1b8d663c6c" />
 
-[Finished Build]<img width="1242" height="2208" alt="IMG_5101" src="https://github.com/user-attachments/assets/eaa5fc05-5a95-4b16-855c-a249c1ac14c9" />
+![Finished Build]<img width="4032" height="3024" alt="IMG_5102" src="https://github.com/user-attachments/assets/d8ff97c4-a43a-4209-a1e6-5661af564283" />
+
+
 
 
